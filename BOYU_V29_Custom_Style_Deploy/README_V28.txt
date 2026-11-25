@@ -1,0 +1,1 @@
+V28 editorial redesign. Existing V27 SEO and URLs retained. New apparel-collection.html is a concept catalog, not a shop. No payment or inventory integration. Existing inquiry form copies text only. Deploy folder root containing index.html.
