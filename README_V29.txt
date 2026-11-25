@@ -1,0 +1,1 @@
+V29: original blue/orange logo retained; B2B and personal customization routes; existing imagery and SEO URLs retained. Personal orders subject to feasibility and MOQ. No checkout or backend added. Upload folder contents to Netlify.
